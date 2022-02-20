@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\dimah\desktop\ооп\lab1_s2\lab1_s2\source.cpp(96): warning C4101: buff1: неиспользованная локальная переменная
+c:\users\dimah\desktop\ооп\lab1_s2\lab1_s2\source.cpp(97): warning C4101: buff2: неиспользованная локальная переменная
+c:\users\dimah\desktop\ооп\lab1_s2\lab1_s2\source.cpp(143): warning C4101: buff1: неиспользованная локальная переменная
+c:\users\dimah\desktop\ооп\lab1_s2\lab1_s2\source.cpp(144): warning C4101: buff2: неиспользованная локальная переменная
+  Lab1_S2.vcxproj -> C:\Users\dimah\Desktop\ООП\Lab1_S2\Debug\Lab1_S2.exe
